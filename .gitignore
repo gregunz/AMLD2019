@@ -107,4 +107,4 @@ venv.bak/
 .DS_STORE
 
 # DATA
-*/*/data/chest_xray/*
+*/*/*/data/chest_xray/*
