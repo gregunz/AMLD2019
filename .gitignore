@@ -105,3 +105,6 @@ venv.bak/
 
 # MAC
 .DS_STORE
+
+# DATA
+*/*/data/chest_xray/*
