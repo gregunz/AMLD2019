@@ -1,6 +1,16 @@
 # Artificial Curiosity: Intrinsic Motivation in Machines too!
 
-This repository contains the code and models for the Artificial Curiosity Visium workshop at AMLD 2019.
+This and the [original repository](https://github.com/thibaultcalvayrac/AMLD_artificial_curiosity) contains the code and models for the Artificial Curiosity Visium workshop at AMLD 2019.
+
+## Educational Resources & Bibliography
+
+* [OpenAI Gym toolkit to build environments](https://gym.openai.com)
+* [Sutton and Barto, "Reinforcement Learning: An Introduction", MIT Press 2018'](http://incompleteideas.net/book/the-book.html)
+* David Silver, Reinforcement Learning Course, UCL 2015: [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) and [videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+
+* [Pathak et al., "Curiosity-driven Exploration by Self-supervised Prediction", 2017](https://pathak22.github.io/noreward-rl/)
+* [Burda, Edwards, Pathak et al., "Large-Scale Study of Curiosity-Driven Learning", 2018](https://pathak22.github.io/large-scale-curiosity/)
+* [Savinov, Raichuk, Marinier, Vincent et al. "Episodic Curiosity through Reachability", 2018](https://arxiv.org/abs/1810.02274)
 
 ## How to run the code on your computer?
 
@@ -16,7 +26,7 @@ This repository contains the code and models for the Artificial Curiosity Visium
 
 ### Run the image
 5. Still from the repository, run the Docker image:
-    * Windows Command Line: type `docker run -it -p 8888:8888 -v %cd%:/app visium_amld_rl`
+    * Windows Command Line: type `docker run -it -p 8888:8888 -v "%cd%":/app visium_amld_rl`
     * Windows PowerShell / Mac OS / Linux: type `docker run -it -p 8888:8888 -v ${PWD}:/app visium_amld_rl`
 6. The container will automatically start a Jupyter notebook server
     * Mac OS, Linux: go to <http://localhost:8888>
