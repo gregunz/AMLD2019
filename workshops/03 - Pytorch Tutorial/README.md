@@ -1,3 +1,6 @@
+# PyTorch Tutorial
+Original github repo [here](https://github.com//ahug/amld-pytorch-workshop/)
+
 ## Questions & Polls
 **Link**: https://www.sli.do/ <br />
 **Code**: AMLD
