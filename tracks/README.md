@@ -1,7 +1,7 @@
 # Tracks
 The interesting tracks I listenned to on Monday and Tuesday.
 
-## Security & Privacy
+## Security & Privacy
 
 ### Technologies for Privacy-Preserving Machine Learning
 
@@ -11,7 +11,7 @@ with Morten Dahl
 
 with Peter Kairouz
 
-### When foes are friends: a privacy perspective on adversarial examples
+### When foes are friends: a privacy perspective on adversarial examples
 
 with Carmela Troncoso
 
